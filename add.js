@@ -1,1 +1,1 @@
-console.log("added 1")
+console.log("added 1 and 2")
